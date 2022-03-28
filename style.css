@@ -1,0 +1,30 @@
+html {
+    background-color: lightblue;
+}
+
+img {
+    width: 250px;
+    height: 100px;
+}
+
+h1 {
+    color: green;
+    text-align: center;
+}
+
+table, tr, td {
+    border: 2px black solid;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+}
+
+td {
+    height: 150px;
+    width: 300px;
+    font-weight: 700;
+}
+.opis {
+    width: 900px;
+}
